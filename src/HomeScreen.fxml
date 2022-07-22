@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.chart.*?>
 <?import javafx.scene.*?>
 <?import javafx.scene.shape.*?>
 <?import javafx.scene.paint.*?>
@@ -12,7 +13,7 @@
    <children>
       <HBox fx:id="G_started" alignment="CENTER" prefHeight="281.0" prefWidth="291.0">
          <children>
-            <Circle fill="#475561" radius="100.0" stroke="BLACK" strokeType="INSIDE" />
+            <Circle fill="#194365" radius="100.0" stroke="BLACK" strokeType="INSIDE" />
          </children>
       </HBox>
       <HBox alignment="CENTER" prefHeight="177.0" prefWidth="291.0" style="-fx-background-color: beize;">
